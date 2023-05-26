@@ -1,7 +1,7 @@
 
 <img width =950px src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Animasyonlu GIF">
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h2 align="center">I am a passionate and research loving Jr. (Full Stack) Developer. </h2>
+<h2 align="center"> I am Jr. [Full Stack] Developer. </h2>
 
 ![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 
