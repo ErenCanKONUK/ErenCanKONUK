@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erencankonuk&label=Profile%20views&color=0e75b6&style=flat" alt="erencankonuk" /> </p>
 
-- 👨‍💻 To learn more about me  : [www.erencankonuk.com](www.erencankonuk.com)
+- 👨‍💻 To learn more about me  : [www.erencankonuk.com - Coming Soon ! ](www.erencankonuk.com)
 
 - 📝 I regularly write articles on : [medium.com/@erencnkonuk](https://medium.com/@erencnkonuk)
 
