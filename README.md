@@ -9,7 +9,7 @@
 
 - 👨‍💻 To learn more about me  : [www.erencankonuk.com](www.erencankonuk.com)
 
-- 📝 I regularly write articles on : [www.medium.com/@erencnkonuk](www.medium.com/@erencnkonuk)
+- 📝 I regularly write articles on : [https://medium.com/@erencnkonuk](www.medium.com/@erencnkonuk)
 
 - 📫 How to reach me : **erencnkonuk@hotmail.com**
 
